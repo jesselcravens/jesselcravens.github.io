@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Tracking Issues with SQL when when nobody is looking
-date:   2019-04-10 08:21:59 -0500
+date:   2024-08-10 08:21:59 -0500
 categories: SQL
 ---
 
@@ -299,3 +299,5 @@ GO
 Step 5: Use the Data
 
 There is lots of good data here that might help an investigation. Narrow the issues by date range using the 'collection_time'. Another hint would be looking at the 'blocking_session_id' to help identify conflicts. Lastly, looking at the query plan in SSMS might help identify missing indexes or problems areas.
+
+
