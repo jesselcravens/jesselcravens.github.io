@@ -20,13 +20,13 @@ Internal Design Elements:
 
 Screenshots: 
 
-![](assets/PassiGUI1.PNG)
-![](assets/PassiGUI2.PNG)
-![](assets/PassiGUI3.PNG)
-![](assets/PassiGUI4.PNG)
-![](assets/PassiGUI5.PNG)
-![](assets/PassiGUI6.PNG)
-![](assets/PassiGUI7.PNG)
+![](/assets/PassiGUI1.PNG)
+![](/assets/PassiGUI2.PNG)
+![](/assets/PassiGUI3.PNG)
+![](/assets/PassiGUI4.PNG)
+![](/assets/PassiGUI5.PNG)
+![](/assets/PassiGUI6.PNG)
+![](/assets/PassiGUI7.PNG)
 
 Source code : 
 
