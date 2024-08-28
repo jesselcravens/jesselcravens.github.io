@@ -28,7 +28,7 @@ This is a tool I created to help manage manual backups and upgrades of multiple 
 
 #### Code for Review
 
-Full code for the interested in another github project: https://github.com/jesselcravens/pulliGUI/blob/main/app.py
+Full code for the interested in another github project: [Github Project Link](https://github.com/jesselcravens/pulliGUI/blob/main/app.py)
 
 
 
