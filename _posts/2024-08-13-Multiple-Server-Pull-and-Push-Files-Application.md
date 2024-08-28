@@ -18,6 +18,7 @@ This is a tool I created to help manage manual backups and upgrades of multiple 
 - Flexible filenames and paths for files to pull from the servers
 - Ability to push files to servers
 - Ability to open the IP addresses selected in a web browser.  This is nice for servers with Web based user interfaces.  
+- Ability to execute script files on the IP addresses selected. 
 - Flexible user name and passwords so that nothing is hard coded for security. 
 
 
