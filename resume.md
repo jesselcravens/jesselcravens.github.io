@@ -62,21 +62,21 @@ experience in diagnosing, troubleshooting, and resolving complex software issues
 ## Education
 
 
-**Colorado State University**, Greenwood Village, CO: B.S. Information Technology, 2012
-**Red Rocks Community College**, Lakewood, CO: Associate of Science, 2010
+**Colorado State University**, Greenwood Village, CO: B.S. Information Technology, 2012\
+**Red Rocks Community College**, Lakewood, CO: Associate of Science, 2010\
 
 ------
 
 
 ## Skills
 
-**Languages:** Python, SQL, BASH, Windows Power Shell, AWK
-**Operating Systems:** Windows Server, Linux: Red Hat Enterprise, Ubuntu
-**Databases:** SQL Server Administration and Advanced Querying, Cassandra NoSQL
-**Cloud Services:** AWS: DynamoDB, S3, Athena, AWS Cli
-**Office Software:** MS Office: Excel, Word, Powerpoint, Outlook
+**Languages:** Python, SQL, BASH, Windows Power Shell, AWK\
+**Operating Systems:** Windows Server, Linux: Red Hat Enterprise, Ubuntu\
+**Databases:** SQL Server Administration and Advanced Querying, Cassandra NoSQL\
+**Cloud Services:** AWS: DynamoDB, S3, Athena, AWS Cli\
+**Office Software:** MS Office: Excel, Word, Powerpoint, Outlook\
 **Team Collaboration Software:** Atlassian Suite: Confluence, JIRA, Bitbucket, Trello, Support Service
-Desk, TeamSupport
-**VM Management:** Oracle, VMWare
-**Monitoring and Testing Tools:** Datadog, SoapUI, Postman
-**Remote Access Tools:** Teamviewer
+Desk, TeamSupport\
+**VM Management:** Oracle, VMWare\
+**Monitoring and Testing Tools:** Datadog, SoapUI, Postman\
+**Remote Access Tools:** Teamviewer\
