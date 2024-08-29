@@ -10,12 +10,14 @@ permalink: /resume/
 <div style='text-align: center;'>
 cravens.lee@gmail.com
 </div>
+<br>
 ------
 
 <br>
 Detail-oriented and customer-focused Principal Software Support Engineer with over 12 years of
 experience in diagnosing, troubleshooting, and resolving complex software issues.
 <br>
+------
 
 ## Professional Experience
 
