@@ -11,17 +11,20 @@ permalink: /resume/
 cravens.lee@gmail.com
 </div>
 <br>
-------
+
+***
 
 <br>
+
 Detail-oriented and customer-focused Principal Software Support Engineer with over 12 years of
 experience in diagnosing, troubleshooting, and resolving complex software issues.
+
 <br>
-------
+
+***
 
 ## Professional Experience
 
-------
 
 #### INVIDI Technologies, Denver, CO
 **Principal Support Engineer**  -  *May 2022 - Present*
