@@ -19,6 +19,8 @@ experience in diagnosing, troubleshooting, and resolving complex software issues
 
 ## Professional Experience
 
+------
+
 #### INVIDI Technologies, Denver, CO
 **Principal Support Engineer**  -  *May 2022 - Present*
 
