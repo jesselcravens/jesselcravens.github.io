@@ -12,14 +12,15 @@ cravens.lee@gmail.com
 </div>
 ------
 
+<br>
 Detail-oriented and customer-focused Principal Software Support Engineer with over 12 years of
 experience in diagnosing, troubleshooting, and resolving complex software issues.
+<br>
 
-------
 ## Professional Experience
 
 #### INVIDI Technologies, Denver, CO
-Principal Support Engineer  -  *May 2022 - Present*
+**Principal Support Engineer**  -  *May 2022 - Present*
 
 
 - Served as a subject matter expert on the technical application of software in customer
@@ -28,7 +29,7 @@ Principal Support Engineer  -  *May 2022 - Present*
 - Trained team members on existing and new technologies.
 - Created on-boarding training for new team members.
 
-Senior Support Engineer  -  *January 2017 – May 2022*
+**Senior Support Engineer**  -  *January 2017 – May 2022*
 
 
 - Developed internal and customer facing tools and scripts to resolve common or difficult issues.
@@ -36,7 +37,7 @@ Senior Support Engineer  -  *January 2017 – May 2022*
 - Developed knowledge base articles to enable customer self-help.
 - Conducted business data analysis to resolve complex issues and minimize revenue impacts.
 
-Support Engineer  -  *September 2014 – January 2017*
+**Support Engineer**  -  *September 2014 – January 2017*
 
 
 - Held a technical account manager role for our largest customer.
@@ -48,7 +49,7 @@ Support Engineer  -  *September 2014 – January 2017*
 
 #### Culinary Software Services, Boulder, CO
 
-Technical Support Representative  -  *May 2013–September 2014*
+**Technical Support Representative**  -  *May 2013–September 2014*
 
 - Trained Customers on how to use software products.
 
@@ -62,7 +63,7 @@ Technical Support Representative  -  *May 2013–September 2014*
 
 
 **Colorado State University**, Greenwood Village, CO: B.S. Information Technology, 2012\
-**Red Rocks Community College**, Lakewood, CO: Associate of Science, 2010\
+**Red Rocks Community College**, Lakewood, CO: Associate of Science, 2010
 
 ------
 
@@ -78,4 +79,4 @@ Technical Support Representative  -  *May 2013–September 2014*
 Desk, TeamSupport\
 **VM Management:** Oracle, VMWare\
 **Monitoring and Testing Tools:** Datadog, SoapUI, Postman\
-**Remote Access Tools:** Teamviewer\
+**Remote Access Tools:** Teamviewer
