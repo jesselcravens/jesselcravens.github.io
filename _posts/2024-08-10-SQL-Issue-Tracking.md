@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Tracking Issues with SQL when when nobody is looking
+title:  Tracking Issues with SQL when nobody is looking
 date:   2024-08-10 08:21:59 -0500
 categories: SQL
 ---
