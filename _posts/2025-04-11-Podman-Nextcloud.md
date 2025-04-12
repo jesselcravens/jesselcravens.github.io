@@ -114,8 +114,12 @@ Restart your containers to make sure that settings were applied:
 
 Access your new Nextcloud Service accessible through web browser. In my case, I could access through 192.168.68.159. Login with the Admin user and password set in `nc-podman-app-deploy.sh`
 
-Lastly, Podman is different than Docker in regards to autostarting of containers. Docker uses the dockerd daemon that runs in the background and can restart and autostart containers. Podman is daemonless and this must be accomplished using systemd units. You will notice that a podman container will not start itself after a reboot unless you do these steps: 
+Lastly, Podman is different than Docker in regards to autostarting of containers. Docker uses the dockerd daemon that runs in the background and can restart and autostart containers. Podman is daemonless and this must be accomplished using systemd units.  
 
+Personally, I feel Docker is easier when it comes to autostarting containers. I had problems with configuring a rootless container to start systemwide. The existing containers created under my user were not found. So to avoid recreating the containers, I just set my user to "linger" and not kill running processes. 
+
+    sudo loginctl enable-linger <myusernamegoeshere>
+    
 Generate the service files: 
 
     podman generate systemd --name nextcloud-db --files --restart-policy=always
