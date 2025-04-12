@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  Deploying Nextcloud with Podman 
-date:   2024-08-13 14:10:32 -0500
+date:   2025-04-11 11:08:21 -0500
 categories: Linux
 ---
 
@@ -16,6 +16,7 @@ Get Podman installed on the server and some pre-reqs
 In order to pull Docker containers into Podman, you will need to modify the /etc/containers/registries.conf file. 
 
     sudo nano /etc/containers/registries.conf
+	
 Add the following line at the bottom of the file: 
 
     unqualified-search-registries=["docker.io"]
@@ -140,9 +141,11 @@ Make sure the containers are running:
 
     systemctl --user status container-nextcloud.service
     systemctl --user status container-nextcloud-db.service
+	
 Also, make sure that the containers are running in podman: 
 
     podman ps
+	
 Reboot and Test the containers are started after a reboot: 
 
     sudo reboot
